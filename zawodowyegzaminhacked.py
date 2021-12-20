@@ -1,7 +1,7 @@
 # Legalne cheaty do zawodowyegzamin.pl
 # Autor: Maciej Dębowski 2 TEP
 
-link = "https://zawodowyegzamin.pl/kierunek_technik_informatyk/kwalifikacja_e_12/e_12_2013_05_X"
+link = input("link: ") #"https://zawodowyegzamin.pl/kierunek_technik_informatyk/kwalifikacja_e_12/e_12_2013_05_X"
 import requests
 import math
 from htmldom import htmldom
